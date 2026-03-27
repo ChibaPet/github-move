@@ -1,8 +1,6 @@
 # Where did I go?
 
-Codeberg!
-
-https://codeberg.org/chibapet
+Codeberg! https://codeberg.org/ChibaPet
 
 # Why did I go?
 
